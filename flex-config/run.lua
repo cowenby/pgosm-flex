@@ -94,4 +94,3 @@ if conf['layerset']['railroad'] then
     print('Including railroad')
     require "style.railroad"
 end
-
