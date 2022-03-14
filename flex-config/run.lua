@@ -90,7 +90,7 @@ if conf['layerset']['water'] then
     require "style.water"
 end
 
-if conf['layerset']['railroad'] then
-    print('Including railroad')
-    require "style.railroad"
+if conf['layerset']['railway'] then
+    print('Including railway')
+    require "style.railway"
 end
